@@ -1,0 +1,19 @@
+tests/unit/test_telemetry_schema_v2.py
+  s_032792af1897e6::t_bf1f96e590ec7f 25-28
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "e6fc8acb849ed326f2a47215d59abb684d5a47be",
+  "prompts": {},
+  "sessions": {
+    "s_032792af1897e6": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f84c9d8dfffeMb8OyMcbxFEfK5",
+        "model": "unknown"
+      },
+      "human_author": "Sundaram Kumar Jha <jhasundaram@outlook.com>"
+    }
+  }
+}
