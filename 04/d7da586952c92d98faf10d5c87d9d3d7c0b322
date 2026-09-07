@@ -1,0 +1,19 @@
+.gitattributes
+  s_032792af1897e6::t_2f491b5d24542d 1-4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "04d7da586952c92d98faf10d5c87d9d3d7c0b322",
+  "prompts": {},
+  "sessions": {
+    "s_032792af1897e6": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f84c9d8dfffeMb8OyMcbxFEfK5",
+        "model": "unknown"
+      },
+      "human_author": "Sundaram Kumar Jha <jhasundaram@outlook.com>"
+    }
+  }
+}
